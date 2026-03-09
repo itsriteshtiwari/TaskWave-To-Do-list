@@ -62,6 +62,7 @@ Start the FastAPI server:
 ### 3. Frontend Setup
 Navigate to your frontend directory and install the dependencies:
 >npm install
+
 Start the React development server:
 >npm run dev
 
