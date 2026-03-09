@@ -41,3 +41,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Log into your MySQL server and create a database for the application:
 ```sql
 CREATE DATABASE taskwave;
+```
+### 2. Backend Setup
+Navigate to your backend directory and install the required Python packages:
+> pip install fastapi uvicorn python-jose[cryptography] bcrypt pymysql python-multipart
