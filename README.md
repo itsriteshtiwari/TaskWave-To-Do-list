@@ -44,7 +44,9 @@ CREATE DATABASE taskwave;
 ```
 ### 2. Backend Setup
 Navigate to your backend directory and install the required Python packages:
-> pip install fastapi uvicorn python-jose[cryptography] bcrypt pymysql python-multipart
+```
+ pip install fastapi uvicorn python-jose[cryptography] bcrypt pymysql python-multipart
+```
 
 Open main.py and update the DB_CONFIG dictionary with your actual MySQL username and password:
 ```
@@ -57,12 +59,15 @@ DB_CONFIG = {
 }
 ```
 Start the FastAPI server:
->uvicorn main:app --reload
-
+```
+uvicorn main:app --reload
+```
 ### 3. Frontend Setup
 Navigate to your frontend directory and install the dependencies:
->npm install
-
+```
+npm install
+```
 Start the React development server:
->npm run dev
-
+```
+npm run dev
+```
