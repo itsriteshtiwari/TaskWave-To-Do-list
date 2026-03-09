@@ -48,10 +48,12 @@ Navigate to your backend directory and install the required Python packages:
 
 Open main.py and update the DB_CONFIG dictionary with your actual MySQL username and password:
 
-DB_CONFIG = {
+```DB_CONFIG = {
     "host": "localhost",
     "user": "root",          # <-- Your MySQL username
     "password": "password",  # <-- Your MySQL password
     "database": "taskwave",
     "cursorclass": pymysql.cursors.DictCursor
-}
+}```
+
+
