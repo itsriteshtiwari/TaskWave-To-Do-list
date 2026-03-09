@@ -71,3 +71,12 @@ Start the React development server:
 ```
 npm run dev
 ```
+# UI
+## Home Screen
+<img width="1919" height="928" alt="Screenshot 2026-03-09 233257" src="https://github.com/user-attachments/assets/e5c9e62d-0534-4ca6-83e6-a4915d299573" />
+
+## Analytics Screen
+<img width="1919" height="929" alt="Screenshot 2026-03-09 233340" src="https://github.com/user-attachments/assets/2abdeed7-3391-4e8b-a5b5-580a169198c0" />
+
+## New Task Add
+<img width="603" height="645" alt="Screenshot 2026-03-09 233322" src="https://github.com/user-attachments/assets/5803be91-8473-4666-8a8e-f96db698627e" />
