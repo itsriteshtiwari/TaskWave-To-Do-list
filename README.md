@@ -41,3 +41,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 Log into your MySQL server and create a database for the application:
 ```sql
 CREATE DATABASE taskwave;
+
+hs
