@@ -42,4 +42,4 @@ Log into your MySQL server and create a database for the application:
 ```sql
 CREATE DATABASE taskwave;
 
-hs
+### Backend Setup
