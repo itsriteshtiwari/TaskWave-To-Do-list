@@ -22,10 +22,10 @@ ALGORITHM   = "HS256"
 TOKEN_EXPIRY = 60 * 24  # minutes
 
 DB_CONFIG = {
-    "host": "localhost",
-    "user": "root",          # <-- Change to your MySQL user
-    "password": "password",  # <-- Change to your MySQL password
-    "database": "taskwave",
+    "host": "pg-15b45790-taskwave.f.aivencloud.com",
+    "user": "avnadmin",          # <-- Change to your MySQL user
+    "password": "AVNS_8ob2Sfqql3CXJXFfW1B",  # <-- Change to your MySQL password
+    "database": "defaultdb",
     "cursorclass": pymysql.cursors.DictCursor
 }
 
